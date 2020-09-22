@@ -3,4 +3,6 @@ project(YaKto)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(YaKto main.cpp)
+add_executable(InformaticheskiyPizdez InformaticheskiyPizdez.cpp)
+add_executable(minOstovV1 minOstovV1.cpp)
+add_executable(minOstovV3 minOstovV3.cpp)
